@@ -1,0 +1,2 @@
+# EduPilot
+Smart Course Selector
